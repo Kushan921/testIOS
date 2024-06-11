@@ -1,0 +1,51 @@
+
+"welcome_message" = "සාදරයෙන් පිළිගනිමු!";
+"login" = "ඇතුල්වන්න";
+"logout" = "ඉවත් වන්න";
+"c_logout" = "ඉවත් වීම තහවුරු කරන්න";
+"c_logout_text" = "ඔබට මෙම ගිණුමෙන් පිටවීමට අවශ්‍ය බව විශ්වාසද?";
+"register" = "ලියාපදිංචි වන්න";
+"username" = "පරිශීලක නාමය";
+"password" = "මුරපදය";
+"re_password" = "මුරපදය නැවත ඇතුළත් කරන්න";
+
+"invalid_input" = "අවලංගු ඇතුල්කිරීමක්";
+"invalid_text" = "ක්ෂේත්‍ර එකක් හෝ කිහිපයක් හිස් හෝ වලංගු නොවේ";
+"c_delete" = "ඉවත්කිරීම තහවුරු කරන්න";
+"c_delete_text" = "ඔබට මෙම දත්ත ඉවත්කර දැමීමට හැකියිද?";
+"user_invalid" = "පරිශීලක නාමය නොවේ";
+"user_invalid_text" = "මෙම පරිශීලක නාමය දැනටමත් අනුරූපයේ තිබේ.";
+"login_failed" = "පිවිසීම අසාර්ථකයි";
+"login_failed_text" = "පරිශීලක නාමය හෝ මුරපදය වැරදියි";
+"cancel" = "අවලංගු කරන්න";
+"save" = "තහවුරු කරන්න";
+"update" = "යාවත්කාලීන කරන්න";
+"delete" = "ඉවත්කරන්න";
+"ok" = "හරි";
+
+"add_project" = "ව්‍යාපෘතියක් එක් කරන්න";
+"my_projects" = "මගේ ව්‍යාපෘති";
+"all_projects" = "සියලු ව්‍යාපෘති";
+"project_details" = "ව්‍යාපෘති විස්තර";
+"edit_projects" = "ව්‍යාපෘතියන් සංස්කරණය කරන්න";
+
+"title" = "ශීර්ෂය: ";
+"description" = "විස්තරය";
+"catergory" = "ප්‍රභේදය තෝරන්න : ";
+"date" = "දිනය තෝරන්න : ";
+"progress" = "ප්‍රගතිය : ";
+"created" = "යොමු කලේ : ";
+
+"v_catergory" = "ප්‍රභේදය : ";
+"v_date" = "දිනය : ";
+
+"category_education" = "අධ්‍යාපනය";
+"category_environment" = "පරිසරය";
+"category_health_wellness" = "සෞඛ්‍ය හා සුවය";
+"category_social_services" = "සමාජ සේවාවන්";
+"category_animal_welfare" = "සත්ව සුබසාධන";
+"category_arts_culture" = "කලාත්මක හා සංස්කෘතිය";
+"category_community_development" = "ප්‍රජා සංවර්ධනය";
+"category_elderly_care" = "වැඩිහිටි රැකවරණ";
+"category_youth_programs" = "තරුණ වැඩසටහන්";
+"category_human_rights" = "මානව හිමිකම්";

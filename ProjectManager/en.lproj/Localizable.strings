@@ -1,0 +1,50 @@
+"welcome_message" = "Welcome!";
+"login" = "Login";
+"logout" = "Logout";
+"c_logout" = "Confirm Logout";
+"c_logout_text" = "Are you sure you want logout from this account?";
+"register" = "Register";
+"username" = "Username";
+"password" = "Password";
+"re_password" = "Re-Enter Password";
+
+"invalid_input" = "Invalid Input";
+"invalid_text" = "One Or More Feilds are Empty Or Invalid";
+"c_delete" = "Confirm Delete";
+"c_delete_text" = "Are you sure you want to delete this project?";
+"user_invalid" = "Username Unavailable";
+"user_invalid_text" = "This username is already taken by another user.";
+"login_failed" = "Login Failed";
+"login_failed_text" = "User Name Or Password Is Incorrect";
+"cancel" = "Cancel";
+"save" = "Save";
+"update" = "Update";
+"delete" = "Delete";
+"ok" = "Ok";
+
+"add_project" = "Add Project";
+"my_projects" = "My Projects";
+"all_projects" = "All Projects";
+"project_details" = "Project Details";
+"edit_projects" = "Edit Project";
+
+"title" = "Title : ";
+"description" = "Description";
+"catergory" = "Select an category : ";
+"date" = "Select a date : ";
+"progress" = "Progress : ";
+"created" = "Created By : ";
+
+"v_catergory" = "Category : ";
+"v_date" = "Date : ";
+
+"category_education" = "Education";
+"category_environment" = "Environment";
+"category_health_wellness" = "Health and Wellness";
+"category_social_services" = "Social Services";
+"category_animal_welfare" = "Animal Welfare";
+"category_arts_culture" = "Arts and Culture";
+"category_community_development" = "Community Development";
+"category_elderly_care" = "Elderly Care";
+"category_youth_programs" = "Youth Programs";
+"category_human_rights" = "Human Rights";
